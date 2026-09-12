@@ -1,0 +1,8 @@
+{
+  "name": "YA AUDIT TOOL ",
+  "description": "An advanced tool to load, validate, detect columns, and compare products between CAS and SMS datasets with live reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
